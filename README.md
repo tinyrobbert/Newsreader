@@ -147,5 +147,5 @@ public class ArticleActivity extends FragmentActivity {
             finish();
             return;
         }
-        ...
+        
 }
